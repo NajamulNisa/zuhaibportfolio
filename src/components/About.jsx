@@ -14,15 +14,13 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-5">
-        I am an AI Engineer, an AI Engineer and Trainer at CQAI. My specialization lies in Python for Data Science. With a BSc in Mathematics from the University of Delhi, I excel in applying analytical skills to solve intricate problems. Additionally, I have a keen interest in Natural Language Processing (NLP), where I explore novel approaches to improve human-computer interaction.
+        Jr.Data Scientist, a versatile professional with a Master's degree in Physics from the University of Kashmir, is a cornerstone of the Chinar Quantum AI (CQAI) team. Currently serving as a Junior Data Scientist, Aaqib adeptly harnesses advanced analytics to drive innovative solutions while also sharing his expertise as an AI Trainer at CQAI's EMERGE Srinagar branch. His commitment to excellence and insatiable curiosity fuel a multifaceted journey marked by years of teaching experience, where he excels in communicating complex concepts and inspiring students. Aaqib's passion for exploration and continuous learning underscores his role as a dedicated explorer, making him an invaluable asset to the CQAI community, embodying excellence and innovation in every endeavor.
         </p>
-
         <br />
 
         <p className="text-xl">
-        I like to code matters from scratch and love the idea of bringing thoughts to life. Connect with me to get your project done. <br /> <br />
+        I like to code matters from scratch and love the idea of bringing thoughts to life. Connect with me to get your project done. <br /> 
         I value minimalistic designs, thoughtful branding of the content, and customer relatable experience. Let’s discover together how we can make your project convert better!<br /> <br />
-        I enjoy creating or redesigning a distinct identity for a product or service, get more traffic from search engine and social platforms.
         </p>
       </div>
     </div>

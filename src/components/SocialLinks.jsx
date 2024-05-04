@@ -1,8 +1,8 @@
 import React from "react";
 import { FaGithub, FaLinkedin, FaTwitter } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
-import { BsFillPersonLinesFill } from "react-icons/bs";
-import resume from "../assets/resume.pdf"
+// import { BsFillPersonLinesFill } from "react-icons/bs";
+// import resume from "../assets/resume.pdf"
 const SocialLinks = () => {
   const links = [
     {
@@ -12,7 +12,7 @@ const SocialLinks = () => {
           LinkedIn <FaLinkedin size={30} />
         </>
       ),
-      href: "https://linkedin.com/in/zuhaibkhaki",
+      href: "https://linkedin.com/in/aaqib-bashir-a71972250",
       style: "rounded-tr-md",
     },
     {
@@ -22,7 +22,7 @@ const SocialLinks = () => {
           GitHub <FaGithub size={30} />
         </>
       ),
-      href: "https://github.com/zuhaibkhaki",
+      href: "https://github.com/aaqibbashir0077",
     },
     {
       id: 3,
@@ -31,18 +31,18 @@ const SocialLinks = () => {
           Email <HiOutlineMail size={30} />
         </>
       ),
-      href: "mailto:zuhaibkhaki.cqai@gmail.com",
+      href: "mailto:aaqib.cqai@gmail.com",
     },
-    {
-      id: 4,
-      child: (
-        <>
-          Resume <BsFillPersonLinesFill size={30} />
-        </>
-      ),
-      href: resume,
-      download: true,
-    },
+    // {
+    //   id: 4,
+    //   child: (
+    //     <>
+    //       Resume <BsFillPersonLinesFill size={30} />
+    //     </>
+    //   ),
+    //   href: resume,
+    //   download: true,
+    // },
     {
       id: 5,
       child: (
@@ -50,7 +50,7 @@ const SocialLinks = () => {
           Twitter <FaTwitter size={30} />
         </>
       ),
-      href: "https://twitter.com/zuhaibkhaki",
+      href: "https://x.com/Aaqib__Bashir?t=eKoaMGhldxp3Fc3sBUixtw&s=09",
       style: "rounded-br-md",
     },
   ];

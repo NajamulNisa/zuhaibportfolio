@@ -12,37 +12,37 @@ const Portfolio = () => {
       id: 1,
       src: api,
       link: '',
-      repo: 'https://github.com/zuhaibkhaki'
+      repo: 'https://github.com/aaqibbashir0077'
     },
     {
       id: 2,
       src: webpostman,
       link: '',
-      repo: 'https://github.com/zuhaibkhaki'
+      repo: 'https://github.com/aaqibbashir0077'
     },
     {
       id: 3,
       src: apod,
       link: '',
-      repo: 'https://github.com/zuhaibkhaki'
+      repo: 'https://github.com/aaqibbashir0077'
     },
     {
       id: 4,
       src: waveportal,
       link: '',
-      repo: 'https://github.com/rahulkarda/Wave-Portal'
+      repo: 'https://github.com/aaqibbashir0077'
     },
     {
       id: 5,
       src: nftportal,
       link: '',
-      repo: 'https://github.com/zuhaibkhaki'
+      repo: 'https://github.com/aaqibbashir0077'
     },
     {
       id: 6,
       src: iptracker,
       link: '',
-      repo: 'https://github.com/zuhaibkhaki'
+      repo: 'https://github.com/aaqibbashir0077'
     },
   ];
 
