@@ -14,7 +14,7 @@ const About = () => {
         </div>
 
         <p className="text-xl mt-5">
-        I am a AI Engineer, an AI Engineer and Trainer at CQAI. My specialization lies in Python for Data Science. With a BSc in Mathematics from the University of Delhi, I excel in applying analytical skills to solve intricate problems. Additionally, I have a keen interest in Natural Language Processing (NLP), where I explore novel approaches to improve human-computer interaction.
+        I am an AI Engineer, an AI Engineer and Trainer at CQAI. My specialization lies in Python for Data Science. With a BSc in Mathematics from the University of Delhi, I excel in applying analytical skills to solve intricate problems. Additionally, I have a keen interest in Natural Language Processing (NLP), where I explore novel approaches to improve human-computer interaction.
         </p>
 
         <br />
